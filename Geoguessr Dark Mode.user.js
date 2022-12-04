@@ -52,6 +52,9 @@ style.innerHTML = `
 
 }
 
+.friend-chat_overlay__0RbAc{${modal}}
+.friend-chat_chatModal__8wlvi{${primary_bg}}
+.competitive-banner_secondCircle__AEYW0:before{background-color:transparent}
 .qualifiers_wrapper__w0FqD{background:none}
 .sidebar_container__eNBoP{${primary_bg}}
 .map-maker-map_container__SEscx{${primary_bg}}
