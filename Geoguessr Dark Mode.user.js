@@ -7,6 +7,7 @@
 // @run-at       document-start
 // @match        *://*.geoguessr.com/*
 // @icon         https://www.google.com/s2/favicons?domain=geoguessr.com
+// license       MIT
 // @grant        none
 // ==/UserScript==
 
